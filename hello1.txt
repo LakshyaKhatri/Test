@@ -3,4 +3,14 @@ ans => I'm fine what about you ????
 Q2. What the hell you are doung here ?
 ans => I'm here for a football match.
 Q3. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+<<<<<<< HEAD
 okay finally i made a branch
+=======
+//Adding some c code
+
+void main()
+{
+	printf("\nHello World\n");
+	sleep(1.5);
+}
+>>>>>>> new

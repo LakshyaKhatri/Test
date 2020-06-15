@@ -1,3 +1,3 @@
 #Test
 
-hey, I just learning how to push a repository on GitHub
+I'm just learning how to push changes to a repository on GitHub
